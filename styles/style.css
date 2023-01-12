@@ -28,6 +28,37 @@ hr {
     margin-bottom: 27px;
 }
 
+/* nav bar styles */
+
+nav {
+    background: #562EFF;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.idea {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    color: #FFFFFF;
+    margin-left: 250px;
+}
+
+.start-bar {
+    display: flex;
+    gap: 36px;
+    color: #FFFFFF;
+    align-items: center;
+    list-style: none;
+    margin-right: 180px;
+}
+
+.profile-icon {
+    Width: 40px;
+    Height: 51px;
+}
+
 /* top players style */
 
 .top-players {
